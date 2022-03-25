@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/yemektarifi-sitesi-redux/static/css/main.a7df8f5c.css",
+    "main.js": "/yemektarifi-sitesi-redux/static/js/main.f7273845.js",
+    "static/js/787.c1112931.chunk.js": "/yemektarifi-sitesi-redux/static/js/787.c1112931.chunk.js",
+    "static/media/test1.jpg": "/yemektarifi-sitesi-redux/static/media/test1.68d5dff42a518427d502.jpg",
+    "static/media/test4.jpg": "/yemektarifi-sitesi-redux/static/media/test4.fcf9ee7520fb860478df.jpg",
+    "static/media/test5.jpg": "/yemektarifi-sitesi-redux/static/media/test5.9054c16024eac6d0bcb3.jpg",
+    "static/media/test10.jpg": "/yemektarifi-sitesi-redux/static/media/test10.b8c9fd45de71aebd6880.jpg",
+    "static/media/test2.jpg": "/yemektarifi-sitesi-redux/static/media/test2.538f43974426e8dee63b.jpg",
+    "static/media/logo.png": "/yemektarifi-sitesi-redux/static/media/logo.d590dfcfedd5a66b3ba7.png",
+    "static/media/test6.jpg": "/yemektarifi-sitesi-redux/static/media/test6.883de1e654a55d8b2c7f.jpg",
+    "static/media/test7.jpg": "/yemektarifi-sitesi-redux/static/media/test7.883de1e654a55d8b2c7f.jpg",
+    "static/media/test8.jpg": "/yemektarifi-sitesi-redux/static/media/test8.bd97cd581f1715e51e76.jpg",
+    "static/media/test3.jpg": "/yemektarifi-sitesi-redux/static/media/test3.99136deb93c6d7ab3024.jpg",
+    "static/media/test9.jpg": "/yemektarifi-sitesi-redux/static/media/test9.1efbbf42ae7ad33f46aa.jpg",
+    "static/media/favicon.png": "/yemektarifi-sitesi-redux/static/media/favicon.260535af330ebeeb2b6b.png",
+    "static/media/icons.svg": "/yemektarifi-sitesi-redux/static/media/icons.b9b0d2481219906fe3c7990a627cc11c.svg",
+    "static/media/loyalty.svg": "/yemektarifi-sitesi-redux/static/media/loyalty.995ec0f2a5a84674b908e2cd72a6d0a8.svg",
+    "index.html": "/yemektarifi-sitesi-redux/index.html",
+    "static/media/favorite.svg": "/yemektarifi-sitesi-redux/static/media/favorite.0e1d133fbbb5ac9ae9fd6c580a435a7e.svg",
+    "static/media/favorite_border.svg": "/yemektarifi-sitesi-redux/static/media/favorite_border.82d6c1b8cb2b606298626d340008b4b4.svg",
+    "static/media/search.svg": "/yemektarifi-sitesi-redux/static/media/search.bc2178ae2f929aec5f0979e09110f358.svg",
+    "static/media/arrow_forward.svg": "/yemektarifi-sitesi-redux/static/media/arrow_forward.440d7629ba654058b345d9d281da92e7.svg",
+    "static/media/arrow_right.svg": "/yemektarifi-sitesi-redux/static/media/arrow_right.525f021ef919c6dc7f99e1e3e5a279e5.svg",
+    "static/media/arrow_left.svg": "/yemektarifi-sitesi-redux/static/media/arrow_left.535e3dcd9416aa1847958666af4eddac.svg",
+    "main.a7df8f5c.css.map": "/yemektarifi-sitesi-redux/static/css/main.a7df8f5c.css.map",
+    "main.f7273845.js.map": "/yemektarifi-sitesi-redux/static/js/main.f7273845.js.map",
+    "787.c1112931.chunk.js.map": "/yemektarifi-sitesi-redux/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7df8f5c.css",
+    "static/js/main.f7273845.js"
+  ]
+}
